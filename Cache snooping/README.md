@@ -5,7 +5,8 @@ python3 snooping_analysis.py
 ```
 
 For privacy concerns, we provide an example of results (select from our real measurement results clusters), and anonymize the IP addresses.
-format:
+
+format of input measurement responses:
 
 IP,response:latency,response:latency,response:latency,response:latency, ...
 

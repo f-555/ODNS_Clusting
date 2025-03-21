@@ -6,3 +6,6 @@ Include measurement result and relevant script:
 > Cache_snooping: Python script for cache snooping.
 > 
 > Measurement results: Includes cluster size distribution, cluster analysis results for each country and cluster composition analysis results.
+
+---
+For ethical considerations, we will not provide measurement results for specific IP. If you have any further questions, please contact wuwenhao22s@ict.ac.cn.
